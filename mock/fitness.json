@@ -1,0 +1,49 @@
+[{
+	"level": "Intermediate",
+	"abu": "lol",
+	"event": [{
+		"name": "500 Calories Run",
+		"category": "Cardio",
+		"thumb" : "slice-image/card-02.png",
+		"type" : "slice-image/ic-cardio.png",
+		"bookmark" : "slice-image/ic-bookmark.png",
+		"bookmarkno" : "slice-image/ic-bookmark-d.png",
+		"isbookmark" : true,
+		"calories" : 500,
+		"points" : "+100"
+	}, {
+		"name": "2.4km Run",
+		"category": "Cardio",
+		"thumb" :  "slice-image/card-01.png",
+		"type" : "slice-image/ic-cardio.png",
+		"bookmark" : "slice-image/ic-bookmark.png",
+		"bookmarkno" : "slice-image/ic-bookmark-d.png",
+		"isbookmark" : false,
+		"calories" : 640,
+		"points" : "+100"
+	}, {
+		"name": "5km Run",
+		"category": "Cardio",
+		"thumb" : "slice-image/card-02.png",
+		"type" : "slice-image/ic-cardio.png",
+		"bookmark" : "slice-image/ic-bookmark.png",
+		"bookmarkno" : "slice-image/ic-bookmark-d.png",
+		"isbookmark" : false,
+		"calories" : 1000,
+		"points" : "+100"
+	}]
+},{
+	"level": "Beginner",
+	"abu": "lol2",
+	"event": [{
+		"name": "Do Nothing",
+		"category": "Cardio",
+		"thumb" : "slice-image/card-02.png",
+		"type" : "slice-image/ic-cardio.png",
+		"bookmark" : "slice-image/ic-bookmark.png",
+		"bookmarkno" : "slice-image/ic-bookmark-d.png",
+		"isbookmark" : false,
+		"calories" : 1,
+		"points" : "+10"
+	}]
+}]
