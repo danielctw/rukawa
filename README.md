@@ -1,2 +1,3 @@
 # rukawa
-main repository name
+Sample JS Application running on AngularJS
+Running APP
